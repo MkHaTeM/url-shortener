@@ -1,0 +1,33 @@
+ul.nav {
+    padding-left: 0px;
+    text-align: left;
+  }
+  ul.nav > li {
+    display: inline-block;
+    padding: 10px 20px;
+  }
+  
+   .nli a{
+    text-decoration: none;
+    color: hsl(0, 0%, 75%);
+    font-family: Poppins;
+
+  }
+
+  .nli:hover a{
+    color: black;
+  }
+
+.signup a{
+  background-color: hsl(180, 66%, 49%);
+  border-color: hsl(180, 66%, 49%);
+  border-spacing: 10px;
+  border-radius: 10px;
+  text-decoration: none;
+  color: hsl(0, 0%, 75%);
+  font-family: Poppins;
+}
+
+.signup:hover a{
+  color: white;
+}
